@@ -10,7 +10,7 @@ void main() {
   var x; // the variable x data type will be dynamic
   var y = 10; //the variable x data type will be integer
   var z = "khaled"; //the variable x data type will be String
-  z = 55; // is not allowed because z is a string variable
+  //z = 55; // is not allowed because z is a string variable
 
   //dynamic is a data type, it allows a variable to be assigned a deferent data type values while the program is running.
 
