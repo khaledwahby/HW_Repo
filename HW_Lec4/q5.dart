@@ -6,5 +6,5 @@ void main() {
 
   String text = "EGP 12.50";
 
-  print(double.parse(text.substring(3, 8)));
+  print(double.parse(text.substring(4, 9)));
 }

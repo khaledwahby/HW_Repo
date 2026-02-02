@@ -12,5 +12,5 @@ void main() {
     "QA": "Qatar",
   };
 
-  print(countryCodes["EG"]! + " \u00AE");
+  print(countryCodes["EG"]);
 }
