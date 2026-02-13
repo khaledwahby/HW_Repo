@@ -22,7 +22,7 @@ void main() {
     }
   }
 
-  if (profit > 1) {
+  if (profit > 0) {
     print(
       "buy on day $buyDay  with price of $BuyPrice and sell on Day $sellDay with price of $sellPrice with profit of $profit ",
     );
