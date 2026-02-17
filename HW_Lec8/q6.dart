@@ -15,7 +15,7 @@ Examples:
 - '([)]' ® Invalid
 - '{[]}' ® Valid
 */
-  String inputString = '(]';
+  String inputString = "()[]{}";
   List<String> char = ['(', ')', '{', '}', '[', ']'];
   List<String> str = inputString.split("").toList();
   int lastOpenedIndex = -1;
